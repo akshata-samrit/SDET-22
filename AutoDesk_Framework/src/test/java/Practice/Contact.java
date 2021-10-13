@@ -14,6 +14,8 @@ public class Contact
 		
 		System.out.println(URL);
 		System.out.println(UN);
+		
+		System.out.println("==================================");
 
 	}
 }
